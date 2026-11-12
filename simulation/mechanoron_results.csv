@@ -1,0 +1,9 @@
+topology,nodes,links,failed_links,sample_count,method,all_loads_supplied_rate,average_service_fraction,minimum_nominal_load_voltage_V,nominal_link_loss_W
+pentakis,32,90,0,1,exact enumeration,1.0,1.0,23.994583,0.003917
+pentakis,32,90,1,90,exact enumeration,1.0,1.0,23.994583,0.003917
+pentakis,32,90,2,4005,exact enumeration,1.0,1.0,23.994583,0.003917
+pentakis,32,90,3,117480,exact enumeration,1.0,1.0,23.994583,0.003917
+ring,32,32,0,1,exact enumeration,1.0,1.0,23.83,0.113333
+ring,32,32,1,32,exact enumeration,1.0,1.0,23.83,0.113333
+ring,32,32,2,496,exact enumeration,0.528226,0.727823,23.83,0.113333
+ring,32,32,3,4960,exact enumeration,0.266935,0.52369,23.83,0.113333
